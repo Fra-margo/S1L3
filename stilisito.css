@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;700&display=swap');
+
+body{
+    max-width: 720px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Lora', serif;
+}
+#Logo{
+    width: 200px;
+    }
+
+#TopPage{
+   color:#147474 ;
+   background-color: #fdfbf1;
+   border-top: solid 0.1em #fee8af;
+}
+
+#FtSection{
+    border-left: solid 0.1em #fee8af;
+}
+
+#Feature{
+    color: #b5460f;
+}
+
+#FocacciaImage{
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 5px 5px 5px 0px grey;
+}
+
+#TextImage{
+    color: grey;
+    text-align: center;
+}
+
+.link{
+    color: #107777;
+}
+
+.Phases{
+    border-bottom: solid 0.1em #c4f3f2;
+}
+
+h1{
+    font-size: 2.2em;
+    font-family: 'Lora', serif;
+    font-weight: 700;
+}
+
+.Preparation{
+    font-weight: bold;
+}
